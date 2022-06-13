@@ -27,4 +27,9 @@ body {
     height: 400px;
     margin-top: 20px;
   }
-  
+  #workoutreasonheading {
+    color: gray;
+    text-transform: uppercase;
+    margin-left: 564px;
+  }
+    
