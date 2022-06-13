@@ -116,33 +116,41 @@ body {
   background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
 }
 #Signupheader h1{
-  margin-top: -50px;
+  margin-top: 150px;
 }
 #SignUpheading{
   letter-spacing: 4px;
   text-transform: uppercase;
   color: grey;
   font-size: 55px;
+  margin-left: 50px;
+
+  
 }
 #SignUptext {
   color:black;
   margin-top:100px;
   
 }
-
 #SignUph1 {
   color:gray;
   margin-top:100px;
   font-size: 39px;
+  margin-left: 50px;
 }
 #SignUppara {
   color:gray;
   margin-top:24px;
   font-size: 22px;
+  margin-left: 50px;
 }
 #SignUpImg{
   float: right;
   margin-top: -400px;
   height: 1100px;
   width:700px ;
+}
+form{
+  margin-left: 50px;
+  margin-top: 100px;
 }
