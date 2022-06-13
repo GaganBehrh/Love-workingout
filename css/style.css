@@ -71,3 +71,9 @@ body {
         margin-left: 748px;
       }
   
+     #centersbutton{
+      background-color: black;
+      color:white;
+      font-size:30px;
+      text-emphasis: bold;
+     }
