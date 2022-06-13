@@ -1,3 +1,24 @@
-body{
-    background-color:blue;
-}
+body {
+    color: blue;
+  }
+  
+  header h1 {
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: grey;
+  }
+  
+  ul {
+    color: grey;
+    list-style: none;
+    margin-top: -53px;
+  }
+  
+  ul li {
+    letter-spacing: 4px;
+    margin-right: 20px;
+    float: right;
+  }
+  ul li:hover {
+    border-bottom: 1px solid grey;
+  }
