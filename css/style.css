@@ -33,7 +33,7 @@ body {
   #workoutreasonheading {
     color: gray;
     text-transform: uppercase;
-    margin-left: 564px;
+    margin-left: 678px;
   }
   #workoutreason img {
     width: 50%;
@@ -65,3 +65,9 @@ body {
   #topreasons li:hover {
     border-bottom: 0px solid white;
   }
+  #centersheading{
+        color: gray;
+        text-transform: uppercase;
+        margin-left: 748px;
+      }
+  
