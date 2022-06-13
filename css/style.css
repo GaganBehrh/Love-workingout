@@ -77,3 +77,13 @@ body {
       font-size:30px;
       text-emphasis: bold;
      }
+     footer{
+       background-color: black;
+       width: 100%;
+       height:200px;
+     }
+     #footerheading{
+       color:white;
+       float: left;
+       margin-left: 20px;
+     }
