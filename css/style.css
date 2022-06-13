@@ -13,6 +13,9 @@ body {
     list-style: none;
     margin-top: -53px;
   }
+  ul a {
+    color:gray;
+  }
   
   ul li {
     letter-spacing: 4px;
@@ -102,7 +105,20 @@ body {
     }
     #email{
       margin-left: -26px;
-    }
+    }s
     #phone{
       margin-left: 13px;
     }
+
+/*SignUp page*/
+#Signpbody{
+  background:   radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
+  height: 600px;
+}
+#SignUpheading{
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: grey;
+  font-size: 50px;
+
+}
