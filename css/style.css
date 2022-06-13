@@ -111,14 +111,32 @@ body {
     }
 
 /*SignUp page*/
-#Signpbody{
-  background:   radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
-  height: 600px;
+
+#SignUpbody{
+  background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
+}
+#Signupheader h1{
+  margin-top: -50px;
 }
 #SignUpheading{
   letter-spacing: 4px;
   text-transform: uppercase;
   color: grey;
-  font-size: 50px;
+  font-size: 55px;
+}
+#SignUptext {
+  color:black;
+  margin-top:100px;
+  
+}
 
+#SignUph1 {
+  color:gray;
+  margin-top:100px;
+  font-size: 39px;
+}
+#SignUppara {
+  color:gray;
+  margin-top:24px;
+  font-size: 22px;
 }
