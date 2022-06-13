@@ -40,3 +40,28 @@ body {
     height: 500px;
     border-radius: 20px;
   }    
+  #topreasonsheading {
+    float: right;
+    margin-top: -467px;
+    color: white;
+    margin-right: 250px;
+  }
+  
+  #topreasons {
+    float: right;
+    margin-top: -439px;
+    margin-right: -126px;
+    color: white;
+    list-style-type: none;
+  }
+  
+  #topreasons li {
+    margin-left: -800px;
+    font-size: 25px;
+    margin-top: 20px;
+    list-style-type: circle;
+  }
+  
+  #topreasons li:hover {
+    border-bottom: 0px solid white;
+  }
