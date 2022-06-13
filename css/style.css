@@ -140,3 +140,9 @@ body {
   margin-top:24px;
   font-size: 22px;
 }
+#SignUpImg{
+  float: right;
+  margin-top: -400px;
+  height: 1100px;
+  width:700px ;
+}
