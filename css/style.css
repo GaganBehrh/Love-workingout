@@ -84,6 +84,25 @@ body {
      }
      #footerheading{
        color:white;
-       float: left;
-       margin-left: 20px;
+       margin-left: 910px;
+       margin-bottom: 100px;
      }
+     #contactdetails{
+       color:white;
+       margin-left: 900px;
+       margin-bottom: 50px;
+     }
+     #contactdetails h2{
+      font-size: 24px;
+      margin-bottom: -66px;
+    }
+    #companyname{
+      margin-left: 30px;
+
+    }
+    #email{
+      margin-left: -26px;
+    }
+    #phone{
+      margin-left: 13px;
+    }
