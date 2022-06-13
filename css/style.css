@@ -22,3 +22,9 @@ body {
   ul li:hover {
     border-bottom: 1px solid grey;
   }
+  #running-image {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+  }
+  
