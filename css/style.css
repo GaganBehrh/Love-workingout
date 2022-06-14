@@ -1,5 +1,5 @@
 body {
-    color: blue;
+    background-color: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
   }
   
   header h1 {
@@ -154,16 +154,18 @@ form{
   margin-left: 50px;
   margin-top: 100px;
 }
-/*Workout body styling*/
-
+/*Workout page styling*/
+#Workoutbody{
+  background-color:rgb(156, 83, 83) ;
+}
 #EasyWorkout{
-  background-color: black;
+ /* background-color: black;*/
   width: 100%;
   height:500px;
   border-radius:20px
 }
 #Workoutheading{
-  color: white;
+  color: gray;
   margin-left:617px;
   margin-top:100px;
   font-size:50px;
@@ -173,7 +175,7 @@ form{
   height:350px;
   margin-top: -20px;
   margin-left: 71px;
-  border-radius:20px
+  border-radius:350px
 }
 #EasyWorkoutImg2{
   width: 40%;
@@ -181,7 +183,9 @@ form{
   float: right;
   margin-top: -360px;
   margin-right: 65px;
-  border-radius:20px
+  border: 1px solid black;
+  border-radius:190px;
+  
 }
 #EasyWorkoutheading{
   color: white;
@@ -190,11 +194,18 @@ form{
   font-size:50px;
 }
 #SemiIntensiveWorkout{
-  background-color: rgb(156, 83, 83);
+  /*background-color: rgb(156, 83, 83);*/
   width: 100%;
   height:500px;
   border-radius:20px
 }
+#SemiIntensiveheading{
+  color: gray;
+  margin-left:521px;
+  margin-top:100px;
+  font-size:50px;
+}
+
 #SemiIntenseWorkoutImg1{
   width: 40%;
   height:350px;
@@ -209,4 +220,17 @@ form{
   margin-top: -360px;
   margin-right: 65px;
   border-radius:20px
+}
+
+#IntensiveWorkout{
+ /* background-color: rgb(112, 132, 212);*/
+  width: 100%;
+  height:500px;
+  border-radius:20px
+}
+#Intensiveheading{
+  color: gray;
+  margin-left:521px;
+  margin-top:100px;
+  font-size:50px;
 }
