@@ -175,7 +175,9 @@ form{
   height:350px;
   margin-top: -20px;
   margin-left: 71px;
-  border-radius:350px
+  border-radius:350px;
+  border: 1px solid black;
+  border-radius:190px;
 }
 #EasyWorkoutImg2{
   width: 40%;
@@ -211,7 +213,9 @@ form{
   height:350px;
   margin-top: -20px;
   margin-left: 71px;
-  border-radius:183px
+  border-radius:183px;
+  border: 1px solid black;
+  border-radius:190px;
 }
 #SemiIntenseWorkoutImg2{
   width: 40%;
@@ -219,7 +223,9 @@ form{
   float: right;
   margin-top: -360px;
   margin-right: 65px;
-  border-radius:162px
+  border-radius:162px;
+  border: 1px solid black;
+  border-radius:190px;
 }
 
 #IntensiveWorkout{
@@ -240,7 +246,9 @@ form{
   height:350px;
   margin-top: -20px;
   margin-left: 71px;
-  border-radius:183px
+  border-radius:183px;
+  border: 1px solid black;
+  border-radius:190px;
 }
 #IntenseWorkoutImg2{
   width: 40%;
@@ -248,5 +256,7 @@ form{
   float: right;
   margin-top: -360px;
   margin-right: 65px;
-  border-radius:162px
+  border-radius:162px;
+  border: 1px solid black;
+  border-radius:190px;
 }
