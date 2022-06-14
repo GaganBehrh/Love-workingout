@@ -124,8 +124,9 @@ body {
   color: grey;
   font-size: 55px;
   margin-left: 50px;
-
-  
+}
+#SignUpList{
+  color:rgb(50, 213, 192);
 }
 #SignUptext {
   color:black;
@@ -148,7 +149,8 @@ body {
   float: right;
   margin-top: -687px;
   height: 1000px;
-  width:700px ;
+  width:630px ;
+  opacity: 0.5;
 }
 form{
   margin-left: 50px;
