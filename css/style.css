@@ -36,7 +36,7 @@ body {
   #workoutreasonheading {
     color: gray;
     text-transform: uppercase;
-    margin-left: 678px;
+    margin-left: 512px;
   }
   #workoutreason img {
     width: 50%;
@@ -47,7 +47,7 @@ body {
     float: right;
     margin-top: -467px;
     color: white;
-    margin-right: 250px;
+    margin-right: 35px;
   }
   
   #topreasons {
@@ -59,7 +59,7 @@ body {
   }
   
   #topreasons li {
-    margin-left: -800px;
+    margin-left: -666px;
     font-size: 25px;
     margin-top: 20px;
     list-style-type: circle;
@@ -71,7 +71,7 @@ body {
   #centersheading{
         color: gray;
         text-transform: uppercase;
-        margin-left: 748px;
+        margin-left: 526px;
       }
   
      #centersbutton{
@@ -87,7 +87,7 @@ body {
      }
      #footerheading{
        color:white;
-       margin-left: 910px;
+       margin-left: 700px;
        margin-bottom: 100px;
      }
      #contactdetails{
@@ -97,17 +97,17 @@ body {
      }
      #contactdetails h2{
       font-size: 24px;
-      margin-bottom: -66px;
+      margin-bottom: -75px;
     }
     #companyname{
-      margin-left: 30px;
+      margin-left: -176px;
 
     }
     #email{
-      margin-left: -26px;
-    }s
+      margin-left: -228px;
+    }
     #phone{
-      margin-left: 13px;
+      margin-left: -190px;
     }
 
 /*SignUp page*/
