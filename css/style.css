@@ -113,20 +113,25 @@ body {
 /*SignUp page*/
 
 #SignUpbody{
-  background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
+  background-image: url("Man_workingout.jpg");
+  
 }
+/*
 #Signupheader h1{
   margin-top: 150px;
-}
+  margin-left: 20px;
+}*/
 #SignUpheading{
   letter-spacing: 4px;
   text-transform: uppercase;
   color: grey;
-  font-size: 55px;
-  margin-left: 50px;
+  font-size: 40px;
+  margin-left: 11px;
+  
 }
-#SignUpList{
-  color:rgb(50, 213, 192);
+
+#SignUpList:{
+  color:rgb(49, 198, 74);
 }
 #SignUptext {
   color:black;
@@ -136,25 +141,26 @@ body {
 #SignUph1 {
   color:gray;
   margin-top:100px;
-  font-size: 39px;
-  margin-left: 50px;
+  font-size: 30px;
+  margin-left:11px;
 }
 #SignUppara {
   color:gray;
   margin-top:24px;
   font-size: 22px;
-  margin-left: 50px;
+  margin-left: 13px;
 }
 #SignUpImg{
   float: right;
   margin-top: -687px;
   height: 1000px;
   width:630px ;
-  opacity: 0.5;
+  opacity: 0.3;
+  
 }
 form{
-  margin-left: 50px;
-  margin-top: 100px;
+  margin-left: 14px;
+  margin-top: 35px;
 }
 /*Workout page styling*/
 #Workoutbody{
